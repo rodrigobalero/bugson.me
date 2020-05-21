@@ -1,0 +1,13 @@
+.container {
+    max-width: 80%;
+    margin: 0 auto;
+  }
+
+.float-right{
+    float: right;
+}
+
+.title.is-3 code,
+.title.is-4 {
+  font-weight: 500;
+}

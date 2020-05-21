@@ -1,0 +1,59 @@
+baseurl = "https://bugson.me"
+languageCode = "pt-br"
+title = "Bugs on me"
+theme = "kiss"
+copyright = "Copyleft <span style='-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); display: inline-block;'>©</span> Rodrigo Balero"
+disqusShortname = "bugsonme"
+googleAnalytics = "UA-167279167-1"
+Paginate = 5 # Number of posts per page
+
+[params.rss] # Adding this tag enables RSS feed
+includeContent = true # Includes whole content in rss
+authorName = "Rodrigo Balero" # Author full name
+authorEmail = "balero@bugson.me" # Author email
+
+[params.assets]
+customCSS = ["css/custom.css"]
+
+[params.info]
+adsense = "" # Adsense ID (ID only, without ca-pub-)
+enableSocial = true # Adds OpenGraph and Twitter cards
+homeTitle = "" # Title for home page
+poweredby = false # Adds powered by hugo and kiss below Copyright
+related = false # Includes related articles at the bottom of the article
+codeCopy = true # Add copy button above code blocks
+
+[params.features]
+disqusOnDemand = false  # Load Disqus comments on click
+
+
+[params.opengraph.facebook]
+admins = [] # array of Facebook IDs
+appID = ""
+pageID = ""
+
+[params.opengraph.twitter]
+page = "" # Twitter Page username. If not set, params.social.twitter will be used.
+
+[params.social]
+#twitter = "rodrigobalero"
+#github = "rodrigobalero"
+#email = "balero@bugsonme"
+#linkedin = "rodrigobalero"
+#facebook = ""
+#instagram = ""
+#codepen = ""
+#rss = "index.xml" # Add this to show RSS button in social.
+
+[params.social.config]
+platforms = ["github","facebook","twitter","instagram","email","codepen","linkedin"]
+
+[taxonomies]
+tag ="tags"
+
+[blackfriday]
+hrefTargetBlank = true
+
+[params.sections_right]
+"/sobre" = "Sobre"
+#"/contato" = "Contato"

@@ -1,0 +1,26 @@
+---
+title: "M'aidez"
+date: 2020-05-21T00:00:00-03:00
+draft: false
+---
+
+Se você não fala francês, dificilmente já tenha ouvido essa palavra que significa "Me Ajude". Mas provavelmente você já ouviu a palavra-código que originou-se dela, utilizado principalmente em aviação, estamos falando da "Mayday". E eu tenho certeza que você acreditava que "Mayday" tinha alguma relação com o mês de Maio, mas não, esta palavra-código foi criada por Frederick Stanley Mockdorf por volta de 1920, enquanto ele trabalhava como operador de rádio no aeroporto de Croydon, nos arredores de Londres.
+
+Hoje não é preciso ser piloto para saber que em casos de emergência, para pedir socorro basta dizer "Mayday, mayday, mayday" no rádio. E a ideia de dizer a palavra três vezes seguidas foi para evitar quaisquer tipo de de confusão com outra palavra que tenha uma fonética parecida.
+
+Desde muito cedo sempre tive muito interesse por aviação, quando era uma criança meu sonho era ser piloto (quem nunca?), mas com o passar dos anos acabei me apaixonando por computadores e essa história mudou completamente. Mesmo assim, ainda acompanho de longe um pouco do mundo da aviação. E uma das coisas que mais admiro neste universo é a evolução dos processos e de sua tecnologia.
+
+Você já se perguntou porque cada vez que ocorre um acidente sempre gasta-se muito tempo e dinheiro em busca das caixas pretas das aeronaves? A principal utilidade de se ter dados de um acidente, é entender o motivo pelo qual o mesmo ocorreu e criar mecanismos que possam evitar que o mesmo se repita. Ah, quem me dera se a área de Tecnologia da Informação tivesse a capacidade da organização que a aviação tem.
+
+Eu sei, você está falado que aviação faz sentido pois pode afetar vidas diretamente, é verdade. Mas lembre-se que programadores não trabalham desenvolvendo softwares para academias e blogs apenas, existem muitos softwares com riscos diretos e indiretos na vida de milhões de pessoas. E isso certamente irá aumentar exponencialmente com a chegada de carros autônomos e outras disrupções.
+
+Tudo bem, a grande maioria destes softwares de grande impacto e risco são organizados e seguem rígidos protocolos de testes e QA. Porém a grande diferença é que não temos um órgão regulador como na aviação, então você é obrigado a acreditar que os processos utilizados no desenvolvimento e testes deste software são bons os suficiente, os quais muitas vezes acabam nem existindo. Também não acredito que devamos ter em TI um órgão regulador, pois isso seria simplesmente loucura. Tudo que temos em TI hoje nasceu graças a facilidade de se do desenvolvimento de protótipos, o que possibilita que pessoas dos seus quartos consigam criar aplicativos, sites e infinitas soluções em softwares sem toda a burocracia de um órgão regulador possa exigir. Muito diferente é claro, de construir um pequeno avião no quintal de casa e sair voando por aí.
+
+Eu sei, voar um avião por ai é muito mais perigoso do que um simples aplicativo não funcionar no celular de alguém. Porém, acredito que para alguns cenários temos complexidades e responsabilidades tão grandes quando a própria aviação. Um exemplo bem direto é que os aviões da Embraer, assim como os da Airbus, utilizam um sistema de voo chamado "Flight-by-wire", o qual em poucas palavras quer dizer que cada movimento ou ação dos pilotos são traduzidos por um software e depois aplicadas a aeronave. Desta forma para os pilotos o controle de uma aeronave pode ser feito apenas por um "joystick", com movimentos sutis, deixando a parte da força mecânica completamente automatizada.
+Para se manter um grau de confiabilidade alta, essas empresas utilizam 3 computadores com três sistemas operacionais distintos, processando os mesmos comandos recebidos pelos pilotos. Um atua como master e outros dois como slave, onde cada output de cálculo do master é preciso ser validado e ter resultado idêntico aos outros dois slaves. Caso seja detectada alguma diferença entre os cálculos do master, o mesmo é desligado e um dos slaves assume a posição de master. Subintendente, cada um de seus outputs é validado pelos seu slave.
+
+Esta realmente é uma arquitetura bem desenvolvida, testada e que leva em consideração vários fatores para manter um grau de redundância altíssimo.
+
+Agora imagine como podemos cobrar uma redundância tripla de uma empresa de pequeno ou médio porte? Ou até mesmo cobrar um processo e validação de QA de uma empresa antes de seus realeases, onde existe uma cultura de CI/CD e deploys ocorrem as centenas durante um único dia. Quem garante que aquele teste unitário estava bem escrito? Será que devemos ter um software que testa os nossos testes?
+
+Acredito que temos que utilizar o bom senso, e cada projeto que iniciamos devemos ter ciência de sua utilização e impacto. Assim podemos ter uma arquitetura ideal para cada cenário, evitando custos adicionais, o que em alguns casos seriam fatores que impossibilitariam muitos dos projetos. Mas também cabe a nós como individuos, encontrar maneiras de que experiências sejam compartilhadas, aumentando assim a base de conhecimento e o nível de todos que atuam na área.

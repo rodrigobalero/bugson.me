@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Bugs on me</title>
+    <link>https://bugson.me/tags/</link>
+    <description>Recent content in Tags on Bugs on me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>Copyleft &lt;span style=&#39;-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); display: inline-block;&#39;&gt;©&lt;/span&gt; Rodrigo Balero</copyright>
+    
+	<atom:link href="https://bugson.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Balero</title>
+      <link>https://bugson.me/tags/balero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bugson.me/tags/balero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rodrigo Balero</title>
+      <link>https://bugson.me/tags/rodrigo-balero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bugson.me/tags/rodrigo-balero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>https://bugson.me/tags/sobre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bugson.me/tags/sobre/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
