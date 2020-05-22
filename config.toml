@@ -1,4 +1,4 @@
-baseurl = "https://bugson.me"
+baseurl = "https://www.bugson.me"
 languageCode = "pt-br"
 title = "Bugs on me"
 theme = "kiss"
