@@ -1,22 +1,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bugs on me</title>
-    <link>https://bugson.me/</link>
+    <link>https://www.bugson.me/</link>
     <description>Recent content on Bugs on me</description>
     <generator>Hugo - gohugo.io</generator>
     <language>en</language>
     <contact>balero@bugson.me</contact>
     <copyright>Copyleft <span style='-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); display: inline-block;'>©</span> Rodrigo Balero</copyright>
     
-        <atom:link href="https://bugson.me/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.bugson.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>M&#39;aidez</title>
-      <link>https://bugson.me/maidez/</link>
+      <link>https://www.bugson.me/maidez/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 -0300</pubDate>
       <author>Rodrigo Balero</author>
-      <guid>https://bugson.me/maidez/</guid>
+      <guid>https://www.bugson.me/maidez/</guid>
       <description></description>
       
       <content>&lt;p&gt;Se você não fala francês, dificilmente já tenha ouvido essa palavra que significa &amp;ldquo;Me Ajude&amp;rdquo;. Mas provavelmente você já ouviu a palavra-código que originou-se dela, utilizado principalmente em aviação, estamos falando da &amp;ldquo;Mayday&amp;rdquo;. E eu tenho certeza que você acreditava que &amp;ldquo;Mayday&amp;rdquo; tinha alguma relação com o mês de Maio, mas não, esta palavra-código foi criada por Frederick Stanley Mockdorf por volta de 1920, enquanto ele trabalhava como operador de rádio no aeroporto de Croydon, nos arredores de Londres.&lt;/p&gt;
@@ -36,10 +36,10 @@ Para se manter um grau de confiabilidade alta, essas empresas utilizam 3 computa
     
     <item>
       <title>Sobre</title>
-      <link>https://bugson.me/sobre/</link>
+      <link>https://www.bugson.me/sobre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>Rodrigo Balero</author>
-      <guid>https://bugson.me/sobre/</guid>
+      <guid>https://www.bugson.me/sobre/</guid>
       <description></description>
       
       <content>&lt;p&gt;Sou Rodrigo Balero, nerd, desenvolvedor de softwares apaixonado por tecnologia.&lt;br&gt;
