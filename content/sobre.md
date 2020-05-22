@@ -8,7 +8,7 @@ tags: ["Sobre", "Rodrigo Balero", "Balero"] # Adds tags to the post
 ---
 
 Sou Rodrigo Balero, nerd, desenvolvedor de softwares apaixonado por tecnologia.  
-A ideai deste blog é ser um diário nerd sobre programação e outros assuntos.
+A ideia deste blog é ser um diário nerd sobre programação e outros assuntos.
 
 Para os curiosos, alguns pontos sobre mim:
 
