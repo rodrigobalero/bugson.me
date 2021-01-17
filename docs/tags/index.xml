@@ -6,11 +6,7 @@
     <description>Recent content in Tags on Bugs on me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>Copyleft &lt;span style=&#39;-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); display: inline-block;&#39;&gt;©&lt;/span&gt; Rodrigo Balero</copyright>
-    
-	<atom:link href="https://www.bugson.me/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Copyleft &lt;span style=&#39;-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); display: inline-block;&#39;&gt;©&lt;/span&gt; Rodrigo L. Balero</copyright><atom:link href="https://www.bugson.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Balero</title>
       <link>https://www.bugson.me/tags/balero/</link>

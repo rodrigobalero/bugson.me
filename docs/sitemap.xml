@@ -3,17 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.bugson.me/</loc>
-    <lastmod>2020-05-21T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.bugson.me/maidez/</loc>
     <lastmod>2020-05-21T00:00:00-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.bugson.me/tags/balero/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.bugson.me/</loc>
   </url>
   
   <url>

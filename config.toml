@@ -2,8 +2,8 @@ baseurl = "https://www.bugson.me"
 languageCode = "pt-br"
 title = "Bugs on me"
 theme = "kiss"
-copyright = "Copyleft <span style='-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); display: inline-block;'>©</span> Rodrigo Balero"
-disqusShortname = "bugsonme"
+copyright = "Copyleft <span style='-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); display: inline-block;'>©</span> Rodrigo L. Balero"
+#disqusShortname = "bugsonme"
 googleAnalytics = "UA-167279167-1"
 Paginate = 5 # Number of posts per page
 
@@ -18,7 +18,7 @@ customCSS = ["css/custom.css"]
 [params.info]
 adsense = "" # Adsense ID (ID only, without ca-pub-)
 enableSocial = true # Adds OpenGraph and Twitter cards
-homeTitle = "" # Title for home page
+homeTitle = "Bugs on me" # Title for home page
 poweredby = false # Adds powered by hugo and kiss below Copyright
 related = false # Includes related articles at the bottom of the article
 codeCopy = true # Add copy button above code blocks

@@ -6,21 +6,17 @@
     <description>Recent content in Balero on Bugs on me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>Copyleft &lt;span style=&#39;-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); display: inline-block;&#39;&gt;©&lt;/span&gt; Rodrigo Balero</copyright>
-    
-	<atom:link href="https://www.bugson.me/tags/balero/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Copyleft &lt;span style=&#39;-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); display: inline-block;&#39;&gt;©&lt;/span&gt; Rodrigo L. Balero</copyright><atom:link href="https://www.bugson.me/tags/balero/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sobre</title>
       <link>https://www.bugson.me/sobre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.bugson.me/sobre/</guid>
-      <description>Sou Rodrigo Balero, nerd, desenvolvedor de softwares apaixonado por tecnologia.
+      <description>Rodrigo L. Balero, nerd, desenvolvedor de softwares apaixonado por tecnologia.
 A ideia deste blog é ser um diário nerd sobre programação e outros assuntos.
 Para os curiosos, alguns pontos sobre mim:
- Atualmente atuo como gerente de desenvolvimento na muchmore.digital. Eu tuíto como rodrigobalero. Eu nasci em Americana, uma cidade no interior do estado de São Paulo. Tenho um irmão mais velho. Sou descendente de italianos e espanhóis. Eu falo alto.</description>
+ Atualmente atuo como gerente de desenvolvimento na muchmore.digital. Eu tuíto como rodrigobalero. Nascido em Americana, interior do estado de São Paulo. Barbarense de coração, afinal vivi toda minha infância e juventude em Santa Bárbara D&amp;rsquo;Oeste, também no interior de São Paulo.</description>
     </item>
     
   </channel>

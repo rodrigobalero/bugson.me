@@ -1,5 +1,5 @@
 .container {
-    max-width: 80%;
+    max-width: 90%;
     margin: 0 auto;
   }
 
@@ -11,3 +11,15 @@
 .title.is-4 {
   font-weight: 500;
 }
+
+a, a:visited {
+  color: #42464c;
+}
+
+.content a:not(.button):visited {
+    color: #42464c;
+  }
+  
+  .content a:not(.button):hover {
+    border-bottom-color: none;
+  }
